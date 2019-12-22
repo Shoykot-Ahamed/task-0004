@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.header-text h2{
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+.header-text p{
+    padding-top: 15px;
+    font-size: 20px;
+    color: #636363;
+}
+.ul{
+    background-image: url(img/op.png);
+    height: 3px;
+    width: 60px;
+    margin-left: 47.5%;
+    position: center;
+}
+
+.option h4{
+    font-weight: 500;
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+.option p{
+    font-size: 17px;
+    padding-bottom: 5px;
+    color: #636363;
+}
+.icon img{
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
